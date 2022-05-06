@@ -1,1 +1,4 @@
+Python Brasil: validação de dados no padrão nacional - curso Alura
 
+Neste curso aprendemos a validação e formatação de telefones fixo e celulares brasileiros utilizando as expressões regulares ou regex.
+Vimos também o acesso ao CEP na classe BuscaEndereco que o valida e o formata, mas o diferencial é que foi necessário acessar uma API do WebService ViaCEP.
